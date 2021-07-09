@@ -11,11 +11,11 @@
 ### **Lab Status**
 ```text
 Describe briefly how complete your lab is, and how did you tested it.
-Our code compiles and runs and the simulation loop runs. However, we are running into issues with the average
-wait time calculation; it is outputting incredibly large numbers. 
+Our code compiles and runs and the simulation loop runs. We ran into an issue with large output numbers for waiting time
+however once we ran it in CSEGrid, it fixed itself.
 
 Does it work on CSEGrid?
-```
+It does run.
  
 ## Guidelines:
 - Complete your and your teammates' names on the top of this document.
